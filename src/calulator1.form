@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="16" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="remarks" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="finalgpa" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="128" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="lbname" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="subject1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="subject2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="subject3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="subject4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="subject5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="subject6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="mar1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="mar2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="mar3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="mar4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="mar5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="mar6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                  <Component id="grd5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="grd6" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="grd3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="grd2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="grd1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="grd4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="gp1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="gp2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="gp3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="gp5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="gp6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="gp4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="obmarks" pref="100" max="32767" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="stdname" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="name" max="32767" attributes="0"/>
+                                      <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="subjectcode" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="112" max="-2" attributes="0"/>
+                              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="42" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="name" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="stdname" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="subjectcode" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="obmarks" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbname" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="subject1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mar1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="grd1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gp1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="subject2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mar2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="grd2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gp2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="subject3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mar3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="grd3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gp3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="subject4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mar4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="grd4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gp4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="mar5" alignment="0" min="-2" pref="14" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="subject5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="grd5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="gp5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="subject6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mar6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="grd6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gp6" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="finalgpa" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remarks" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="gp6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="finalgpa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="gp5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mar4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="subject5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mar2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="remarks">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mar1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="grd1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Obtained Marks % :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Subject Code :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mar5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="obmarks">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="obmarksActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mar6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="subjectcode">
+    </Component>
+    <Component class="javax.swing.JLabel" name="gp3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="subject6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="grd5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="grd4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="grd3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="grd2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Subject"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="grd6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Marks"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="gp1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="gp2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="subject3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="gp4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="subject4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Remarks : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="subject1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="subject2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Result"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Grade"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="GPA :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mar3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Grade Point"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Student Name : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="name">
+    </Component>
+    <Component class="javax.swing.JLabel" name="stdname">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Student Name : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
